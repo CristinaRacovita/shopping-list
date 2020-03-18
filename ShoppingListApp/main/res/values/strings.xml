@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="add_button">ADD ITEM</string>
+    <string name="ciocolata">Chocolate</string>
+    <string name="lamai">Lemon</string>
+    <string name="broccoli">Broccoli</string>
+    <string name="conopida">Cauliflower</string>
+    <string name="morcov">Carrot</string>
+    <string name="telina">Celery</string>
+    <string name="lapte">Milk</string>
+    <string name="iaurt">Yogurt</string>
+    <string name="cascaval">Cheese</string>
+    <string name="finish">DONE</string>
+</resources>
