@@ -1,5 +1,5 @@
 # ShoppingList
-Shopping List Android App
+Shopping List Android App\n
 What I used:
 - checked the state of a checkbox
 - Ancenstral Navigation (parent-child activities)
