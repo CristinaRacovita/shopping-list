@@ -1,14 +1,14 @@
 # ShoppingList
 What I used:
-- checked the state of a checkbox
+- Basic UI Component (checkboxes, buttons, etc)
 - Ancenstral Navigation (parent-child activities)
-- Explicit intent (by pressing a button)
+- Explicit intents 
+- Activities and Fragments
 # Introduction
-In the second activity is a list of posible products that you want to remember to buy.You should choose what product or products want to buy by the list. After you choose, the selected products will appear in first app page.
+The app shows a list of posible products that you need to remember to buy. The user should choose the wanted products from a list. The selected products will appear in the main page.
 # Pre-requisites
-- IDE: Android Studio (for every operating system)
-- JDK
+- IDE: Android Studio
 # Getting Started
-- Download code.
-- Open code in Android Studio.
-- Run the app.
+- Download the code
+- Open the app using Android Studio
+- Run the app
